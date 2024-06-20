@@ -7,13 +7,7 @@ revelar.reveal('.paragrafo-topo',{
      delay: 500
 })
 
-revelar.reveal('.img-topo',{
-    duration: 2000,
-    distance:'90px',
-    delay: 1000, 
-    origin: 'bottom'
-    
-})
+
 
 revelar.reveal('.foto1',{
     duration: 2000,
