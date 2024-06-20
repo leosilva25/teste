@@ -43,7 +43,7 @@ main{
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-items: center;
-    border-bottom: 3px solid black;
+    
     background-color: #3e534e;
    
 }
@@ -105,11 +105,11 @@ section{
 }
 
 .catalogo{
-    border-bottom: 3px solid black;
+   
 }
 
 .album{
-    border-bottom:3px solid black ;
+    
 }
 
 h3{

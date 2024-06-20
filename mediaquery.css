@@ -1,11 +1,10 @@
 @media screen and(max-width:600px){
     header{
-      
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
     }
 }
 
-@media screen and(max-width:600px){
-    img#animation{
-        width: 300px;
-    }
-}
