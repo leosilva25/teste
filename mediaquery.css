@@ -1,0 +1,11 @@
+@media screen and(max-width:600px){
+    header{
+      
+    }
+}
+
+@media screen and(max-width:600px){
+    img#animation{
+        width: 300px;
+    }
+}
