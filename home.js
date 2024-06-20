@@ -11,7 +11,7 @@ revelar.reveal('.img-topo',{
     duration: 2000,
     distance:'90px',
     delay: 1000, 
-    origin: 'right'
+    origin: 'bottom'
     
 })
 
